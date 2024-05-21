@@ -9,3 +9,6 @@
 - Вернуть строки JSON с сервера
 - Создать из строки JSON объект
 - Получить список всех объектов хранящихся на сервере в файле (можно в виде таблицы, в виде карточек, в виде контейнеров и т.д.)
+![alt text]([http://url/to/img.png](https://github.com/Mywo960/OOP_3_SEM_2/blob/master/Список%20ноутбуков.png))
+![alt text]([(https://github.com/Mywo960/OOP_3_SEM_2/blob/master/Добавление%20ноутбука.png))
+![alt text]([http://url/to/img.png](https://github.com/Mywo960/OOP_3_SEM_2/blob/master/Список%20ноутбуков.png))
